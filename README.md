@@ -1,2 +1,2 @@
-# residencias
+# Residencias
 Sistema de residencias
